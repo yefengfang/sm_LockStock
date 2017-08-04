@@ -1,0 +1,15 @@
+d:\users\documents\visual studio 2017\Projects\LockStock\LockStock\obj\Release\LockStock.frmLockStock.resources
+d:\users\documents\visual studio 2017\Projects\LockStock\LockStock\obj\Release\LockStock.Properties.Resources.resources
+d:\users\documents\visual studio 2017\Projects\LockStock\LockStock\obj\Release\LockStock.csproj.GenerateResource.Cache
+d:\users\documents\visual studio 2017\Projects\LockStock\LockStock\bin\Release\LockStock.exe
+d:\users\documents\visual studio 2017\Projects\LockStock\LockStock\bin\Release\LockStock.pdb
+d:\users\documents\visual studio 2017\Projects\LockStock\LockStock\obj\Release\LockStock.exe
+d:\users\documents\visual studio 2017\Projects\LockStock\LockStock\obj\Release\LockStock.pdb
+D:\Users\Documents\Visual Studio 2017\Projects\LockStock-wf\LockStock\bin\Release\LockStock.exe
+D:\Users\Documents\Visual Studio 2017\Projects\LockStock-wf\LockStock\bin\Release\LockStock.pdb
+D:\Users\Documents\Visual Studio 2017\Projects\LockStock-wf\LockStock\obj\Release\LockStock.frmLockStock.resources
+D:\Users\Documents\Visual Studio 2017\Projects\LockStock-wf\LockStock\obj\Release\LockStock.Properties.Resources.resources
+D:\Users\Documents\Visual Studio 2017\Projects\LockStock-wf\LockStock\obj\Release\LockStock.csproj.GenerateResource.Cache
+D:\Users\Documents\Visual Studio 2017\Projects\LockStock-wf\LockStock\obj\Release\LockStock.exe
+D:\Users\Documents\Visual Studio 2017\Projects\LockStock-wf\LockStock\obj\Release\LockStock.pdb
+D:\Users\Documents\Visual Studio 2017\Projects\LockStock-wf\LockStock\obj\Release\LockStock.csprojResolveAssemblyReference.cache
