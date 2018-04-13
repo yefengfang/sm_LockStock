@@ -13,3 +13,11 @@ D:\Users\Documents\Visual Studio 2017\Projects\LockStock-wf\LockStock\obj\Releas
 D:\Users\Documents\Visual Studio 2017\Projects\LockStock-wf\LockStock\obj\Release\LockStock.exe
 D:\Users\Documents\Visual Studio 2017\Projects\LockStock-wf\LockStock\obj\Release\LockStock.pdb
 D:\Users\Documents\Visual Studio 2017\Projects\LockStock-wf\LockStock\obj\Release\LockStock.csprojResolveAssemblyReference.cache
+D:\Users\Documents\GitHub\sm_LockStock\LockStock\bin\Release\LockStock.exe
+D:\Users\Documents\GitHub\sm_LockStock\LockStock\bin\Release\LockStock.pdb
+D:\Users\Documents\GitHub\sm_LockStock\LockStock\obj\Release\LockStock.frmLockStock.resources
+D:\Users\Documents\GitHub\sm_LockStock\LockStock\obj\Release\LockStock.Properties.Resources.resources
+D:\Users\Documents\GitHub\sm_LockStock\LockStock\obj\Release\LockStock.csproj.GenerateResource.cache
+D:\Users\Documents\GitHub\sm_LockStock\LockStock\obj\Release\LockStock.csproj.CoreCompileInputs.cache
+D:\Users\Documents\GitHub\sm_LockStock\LockStock\obj\Release\LockStock.exe
+D:\Users\Documents\GitHub\sm_LockStock\LockStock\obj\Release\LockStock.pdb

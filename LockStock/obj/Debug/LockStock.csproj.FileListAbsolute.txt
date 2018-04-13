@@ -14,3 +14,11 @@ D:\fyefeng\Documents\Visual Studio 2017\Projects\LockStock\LockStock\obj\Debug\L
 D:\fyefeng\Documents\Visual Studio 2017\Projects\LockStock\LockStock\obj\Debug\LockStock.csproj.GenerateResource.Cache
 D:\fyefeng\Documents\Visual Studio 2017\Projects\LockStock\LockStock\obj\Debug\LockStock.exe
 D:\fyefeng\Documents\Visual Studio 2017\Projects\LockStock\LockStock\obj\Debug\LockStock.pdb
+D:\Users\Documents\GitHub\sm_LockStock\LockStock\bin\Debug\LockStock.exe
+D:\Users\Documents\GitHub\sm_LockStock\LockStock\bin\Debug\LockStock.pdb
+D:\Users\Documents\GitHub\sm_LockStock\LockStock\obj\Debug\LockStock.frmLockStock.resources
+D:\Users\Documents\GitHub\sm_LockStock\LockStock\obj\Debug\LockStock.Properties.Resources.resources
+D:\Users\Documents\GitHub\sm_LockStock\LockStock\obj\Debug\LockStock.csproj.GenerateResource.cache
+D:\Users\Documents\GitHub\sm_LockStock\LockStock\obj\Debug\LockStock.csproj.CoreCompileInputs.cache
+D:\Users\Documents\GitHub\sm_LockStock\LockStock\obj\Debug\LockStock.exe
+D:\Users\Documents\GitHub\sm_LockStock\LockStock\obj\Debug\LockStock.pdb

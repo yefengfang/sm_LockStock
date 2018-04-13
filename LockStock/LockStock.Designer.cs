@@ -28,13 +28,11 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
             this.gvDDXX = new System.Windows.Forms.DataGridView();
             this.gvSKXX = new System.Windows.Forms.DataGridView();
             this.btLock = new System.Windows.Forms.Button();
             this.btUnLock = new System.Windows.Forms.Button();
             this.btExit = new System.Windows.Forms.Button();
-            this.timer1 = new System.Windows.Forms.Timer(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.gvDDXX)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.gvSKXX)).BeginInit();
             this.SuspendLayout();
@@ -118,7 +116,6 @@
         private System.Windows.Forms.Button btLock;
         private System.Windows.Forms.Button btUnLock;
         private System.Windows.Forms.Button btExit;
-        private System.Windows.Forms.Timer timer1;
     }
 }
 
